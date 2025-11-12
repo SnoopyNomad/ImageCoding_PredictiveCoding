@@ -68,7 +68,8 @@ The notebook generates several visualizations:
 ImageCoding_PredictiveCoding/
 ├── PredictiveCoding.ipynb    # Main notebook with implementation
 ├── x-ray.png                  # Input image
-└── README.md                  # This file
+├── README.md                  # This file
+└── LICENSE                    # License file
 ```
 
 ## Notes
@@ -76,6 +77,10 @@ ImageCoding_PredictiveCoding/
 - The lossless method provides perfect reconstruction but requires storing all prediction errors
 - The lossy method achieves better compression at the cost of some image quality
 - SNR values may vary slightly depending on the input image characteristics
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
 
